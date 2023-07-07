@@ -4,11 +4,13 @@ import Register from "./components/Register";
 import Login from "./components/Login";
 import Home from "./components/Home";
 import Replies from "./components/Replies";
+import Navbar from './components/Navbar';
 
 const App = () => {
 	return (
 		<div>
 			<BrowserRouter>
+				<Navbar />
 				<Routes>
 					<Route path='/' element={<Login />} />
 					<Route path='/register' element={<Register />} />
