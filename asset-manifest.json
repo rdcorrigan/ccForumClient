@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ccForumClient/static/css/main.e57848be.css",
-    "main.js": "/ccForumClient/static/js/main.f95de91a.js",
+    "main.js": "/ccForumClient/static/js/main.764f01c3.js",
     "static/js/787.fa3c4679.chunk.js": "/ccForumClient/static/js/787.fa3c4679.chunk.js",
     "index.html": "/ccForumClient/index.html",
     "main.e57848be.css.map": "/ccForumClient/static/css/main.e57848be.css.map",
-    "main.f95de91a.js.map": "/ccForumClient/static/js/main.f95de91a.js.map",
+    "main.764f01c3.js.map": "/ccForumClient/static/js/main.764f01c3.js.map",
     "787.fa3c4679.chunk.js.map": "/ccForumClient/static/js/787.fa3c4679.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e57848be.css",
-    "static/js/main.f95de91a.js"
+    "static/js/main.764f01c3.js"
   ]
 }
